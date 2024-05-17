@@ -1,5 +1,3 @@
-from time import sleep
-
 def loading_text():
   sleep(1.5)
   print("\nLoading", end = "")
